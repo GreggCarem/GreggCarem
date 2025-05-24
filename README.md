@@ -16,10 +16,10 @@ I craft performant web applications, immersive 3D experiences, and rich audio en
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React, JavaScript, HTML5, CSS/SCSS, Blade
-- **Backend:** Laravel, Ruby on Rails, Node.js, REST APIs
+- **Frontend:** React, JavaScript, HTML5, CSS/SCSS, Blade, Ruby on Rails
+- **Backend:** Laravel, Node.js, REST APIs
 - **3D & Game Dev:** Unreal Engine, Blender, Three.js
-- **Audio Tools:** Ableton Live, Reaper, FMOD
+- **Audio Tools:** Ableton Live, Lofic Pro
 - **Hosting & DevOps:** GitHub Pages, AWS S3, Netlify, Tailscale
 
 ---
