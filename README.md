@@ -48,11 +48,11 @@ A minimalist Unsplash-powered image search engine built with JavaScript and API 
 - 📧 caremegregoire@gmail.com  
 - 🌐 [Portfolio Website](https://greggcarem.github.io/Portafolio-Gregoire-Careme/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 🎵 [SoundCloud](https://soundcloud.com/your-profile) *(if relevant)*
+
 
 ---
 
-> *"Design is intelligence made visible — and audible."*
+
 
 ---
 
